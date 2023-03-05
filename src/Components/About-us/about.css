@@ -1,0 +1,15 @@
+.counter {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #17bf9d94;
+}
+
+.counter_title {
+  font-size: 1rem;
+  color: black;
+  font-weight: 500;
+}
+
+.about_content {
+  padding-left: 50px;
+}
